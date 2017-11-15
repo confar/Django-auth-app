@@ -14,7 +14,7 @@ Then copy dirs in "myproject" dir
 
 In myproject->settings add  'registration' to the INSTALLED APPS
 
-add templates dir in TEMPLATES
+add templates dir in TEMPLATES.
 ...
 'DIRS': ['templates/'],
 ...
