@@ -6,7 +6,7 @@ Copy the directories in you django project. If you dont have one, then run in cm
 
 ```django-admin startproject myproject```
 
-Then copy dirs in "myproject" dir
+Then copy dirs in "myproject" directory
 
 * run ```python manage.py migrate```  
 * run ```python manage.py runserver```
