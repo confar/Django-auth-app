@@ -6,6 +6,7 @@ Copy the directories in you django project. If you dont have one, then run in cm
 
 ```django-admin startproject myproject```
 
+Create a database, if you prefer something else than sqlite3 and write it in the local config
 Then copy dirs in "myproject" directory
 
 * run ```python manage.py migrate```  
