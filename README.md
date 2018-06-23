@@ -1,6 +1,7 @@
 # Django-auth-app
 Django authorization app on Django 1.11
 
+Create virtual environment using venv
 
 Copy the directories in you django project. If you dont have one, then run in cmd 
 
